@@ -5,12 +5,12 @@ This repository contains a visual dashboard that presents insights into Netflix'
 
 ## 🖼️ Dashboard Highlights
 
-- **Netflix Logo**: Featured at the top left for branding.
-- **Runtime**: 2 hours.
-- **Total Content**: 1 item.
-- **Movies**: 1 movie.
-- **Shows**: None listed.
-- **Average IMDB Rating**: 4.40.
+- **Netflix Logo**
+- **Runtime**
+- **Total Content**
+- **Movies**
+- **Shows**
+- **Average IMDB Rating**
 
 ### 📊 Visual Elements
 
